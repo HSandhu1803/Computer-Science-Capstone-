@@ -1,5 +1,5 @@
 ## Computer-Science-Capstone-
-### Harkamal Sandhu
+##### Harkamal Sandhu
 ## Table of Contents
 
 #### Code Review
