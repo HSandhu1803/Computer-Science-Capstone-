@@ -1,6 +1,6 @@
 ## Computer-Science-Capstone-
 Harkamal Sandhu
-**Table of Contents**
+#### **Table of Contents**
 
 > Code Review
 > Enhancement One: Software Design and Engineering
