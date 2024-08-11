@@ -1,12 +1,12 @@
 ## Computer Science Capstone- Final Project
 Welcome to Harkamal Sandhu's ePortfolio!
-#### **Table of Contents**
+#### Table of Contents
 
 - [Professional Self-Assessment](https://github.com/HSandhu1803/Computer-Science-Capstone-/blob/main/README.md#professional-self-assessment)
 - [Code Review](https://github.com/HSandhu1803/Computer-Science-Capstone-#code-review)
-- Enhancement One: Software Design and Engineering
-- Enhancement Two: Algorithms and data structure
-- Enhancement Three: Databases
+- Enhancement One: **Software Design and Engineering**
+- Enhancement Two: **Algorithms and data structure**
+- Enhancement Three: **Databases**
 
 #### Professional Self-Assessment
 Completing my coursework throughout the Computer Science program and developing my ePortfolio has been a transformative journey, allowing me to showcase my strengths, refine my professional goals, and prepare for a successful career in the computer science field. This process has not only deepened my technical expertise but also enhanced my ability to collaborate, communicate, and adapt to new challenges in a rapidly evolving industry.
