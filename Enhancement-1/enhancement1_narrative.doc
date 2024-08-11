@@ -1,0 +1,35 @@
+**Narrative for Software Engineering and Design enhancement**
+  
+Briefly describe the artifact. What is it? When was it created?
+The artifact is a text-based adventure game titled "Deadly Zombie Adventure Game," created during the IT 140: Introduction to Scripting course. The game involves navigating through created as part of the course project to demonstrate basic scripting skills using Python.
+Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+I selected this artifact for my ePortfolio because it represents my foundational skills in programming and demonstrates my ability to create an interactive application from scratch by building a story board/map of a game, visualising flow of a code by creating pseudocode and finally coded it using Python. The specific components that showcase my skills include:
+•	Game Logic Implementation: Designing the flow of the game, including room navigation and item collection.
+•	Data Structures: Using dictionaries to map out the rooms and their connections, showcasing my understanding of data organization.
+•	User Interaction: Implementing input handling and game status updates to create an engaging user experience.
+The artifact was improved by:
+1.	Adding New Rooms and Items: Introduced "Library," "Cafeteria," and "Emergency Exit" rooms, along with new items like "Magic Potion," "Key-card," and "Night Vision Goggles."
+2.	Enhanced Game Logic: Implemented puzzles that need to be solved to access certain rooms or items and introduced multiple endings based on the items collected and decisions made.
+
+Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
+Yes, I met the course objectives planned for this enhancement in Module One. The objectives included demonstrating the ability to modify existing code, improve functionality, and add new features. This artifact now better reflects my ability to enhance software projects by adding complexity and interactivity. There are no updates to my outcome-coverage plans as the current enhancements align well with the objectives set forth.
+
+Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+Learning and Improvements:
+•	Problem-Solving: Enhancing the game required critical thinking to integrate new rooms and items seamlessly.
+•	Advanced Python Skills: Implementing puzzles and multiple endings required a deeper understanding of Python programming.
+•	User Experience: Creating a more engaging and interactive game improved my skills in designing user-friendly software.
+Challenges Faced:
+•	Puzzle Integration: Ensuring that puzzles were challenging yet solvable without disrupting the game's flow required careful consideration.
+•	Balancing Game Difficulty: Adding new elements without making the game too easy or too difficult was a challenging task.
+•	Testing and Debugging: Ensuring that all new features worked correctly and did not introduce bugs into the existing code required thorough testing.
+
+The following course outcomes were achieved:
+•	Create professional, coherent, and audience-appropriate communications
+The process of enhancing and documenting the text-based adventure game required clear communication of the game’s logic, user interaction, and enhancements made. The detailed description of the improvements and the rationale behind them demonstrates the ability to create professional and audience-appropriate documentation.
+•	Design and evaluate algorithmic solutions, managing trade-offs in data structures and algorithms
+The game’s development involved designing and evaluating the game logic and data structures, such as using dictionaries to map rooms and connections. The introduction of new rooms, items, and puzzles required careful consideration of algorithmic solutions and trade-offs to ensure a seamless user experience.
+•	Implement innovative, value-driven computer solutions using industry-standard practices
+Enhancing the game by adding new features, improving game logic, and creating multiple endings showcases the ability to implement innovative solutions that add value to the project. This was achieved using industry-standard practices in Python programming and software development.
+
+Overall, the process of enhancing this artifact was highly instructive and satisfactory. It not only allowed me to apply and showcase my skills but also pushed me to learn and adapt, thereby improving my abilities as a software developer.
