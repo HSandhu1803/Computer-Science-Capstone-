@@ -18,7 +18,14 @@ The math courses I took were instrumental in developing my analytical thinking a
 Moreover, the Emerging Trends course helped me stay updated with the latest technologies, tools, and methodologies, which is crucial for staying relevant in the fast-paced tech industry. This course sparked my interest in emerging fields like artificial intelligence and mobile application development, aligning with my career goals and ensuring that I remain adaptable and innovative in my work. Ethical considerations have been a consistent theme throughout my education. I have learned the importance of maintaining integrity, accountability, and high standards in all aspects of my work. This is particularly evident in my database analysis report from DAD 220: Introduction to Structured Database Environments, where I focused on ensuring the accuracy and security of data within the Companies database. I am committed to upholding ethical standards in my professional life, prioritizing the creation of secure, reliable, and efficient solutions.
 
 
-#### CODE REVIEW: 
+##### CODE REVIEW: 
 * 🎥 My code review video: [Watch it here](https://youtu.be/SuOvxwoVJQo?si=Y9nSh4-JIeFyQ5w2!)
 
-[Enhancement Plan One](Enhancement-1/)  
+[Enhancement Plan One](Enhancement-1/)
+The artifact is a text-based adventure game titled "Deadly Zombie Adventure Game," created during the IT 140: Introduction to Scripting course. The game involves navigating through created as part of the course project to demonstrate basic scripting skills using Python. I selected this artifact for my ePortfolio because it represents my foundational skills in programming and demonstrates my ability to create an interactive application from scratch by building a story board/map of a game, visualising flow of a code by creating pseudocode and finally coded it using Python.
+The artifact was improved by:
+1.	Adding New Rooms and Items: Introduced "Library," "Cafeteria," and "Emergency Exit" rooms, along with new items like "Magic Potion," "Key-card," and "Night Vision Goggles."
+2.	Enhanced Game Logic: Implemented puzzles that need to be solved to access certain rooms or items and introduced multiple endings based on the items collected and decisions made.
+
+[Enhancement Plan Two]
+
