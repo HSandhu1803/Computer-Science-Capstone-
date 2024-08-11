@@ -30,10 +30,11 @@ The artifact was improved by:
 [Enhancement Plan Two](Enhancement-2/)
 The artifact I chose for Category Two is **“Course planner program”** from the CS 300: Data Structures and Algorithms course at Southern New Hampshire University. This program loads course data from a file, organizes it using an unordered map, and allows users to view course information and prerequisites. The original purpose of the artifact was to demonstrate the ability to implement and manipulate data structures, specifically focusing on efficient data storage and retrieval using C++. The artifact was created during the course, showcasing my progress in understanding and applying data structures. I selected this artifact for my ePortfolio because it not only demonstrates my proficiency in implementing and manipulating complex data structures but also showcases my ability to enhance existing code to improve functionality and user experience. 
 The artifact was improved by:
+'''
 1.	Linked List Addition: The primary enhancement was the addition of a linked list data structure. It allows dynamic insertion and deletion of courses, which was not possible with the unordered map alone.
 2.	Inserting and Removing Courses: I added options for users to insert and remove courses from the linked list. This required implementing methods for appending, prepending, and removing nodes in the linked list.
 3.	Improved User Interface: The menu was expanded to include options for adding and removing courses. This improvement involved designing a user-friendly interface that guides the user through the process of managing the course data.
-
+'''
 
 [Enhancement Plan Three](Enhancement-3/)
 The artifact is a **database analysis report** based on the _Companies database_. It was created as part of the DAD 220: Introduction to Structured Database Environments course. The assignment involved analyzing data from various tables within the database, such as Collaborator, Orders, and RMA, and generating reports based on specific queries. The artifact includes SQL commands for data retrieval and analysis, focusing on descriptive analysis and aggregation of data. I selected this artifact for my ePortfolio because it demonstrates my proficiency in database management, data retrieval, and analysis, which are critical skills in software development. 
