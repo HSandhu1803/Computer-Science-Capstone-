@@ -18,7 +18,7 @@ The math courses I took were instrumental in developing my analytical thinking a
 Moreover, the Emerging Trends course helped me stay updated with the latest technologies, tools, and methodologies, which is crucial for staying relevant in the fast-paced tech industry. This course sparked my interest in emerging fields like artificial intelligence and mobile application development, aligning with my career goals and ensuring that I remain adaptable and innovative in my work. Ethical considerations have been a consistent theme throughout my education. I have learned the importance of maintaining integrity, accountability, and high standards in all aspects of my work. This is particularly evident in my database analysis report from DAD 220: Introduction to Structured Database Environments, where I focused on ensuring the accuracy and security of data within the Companies database. I am committed to upholding ethical standards in my professional life, prioritizing the creation of secure, reliable, and efficient solutions.
 
 
-CODE REVIEW: 
+#### CODE REVIEW: 
 * 🎥 My code review video: [Watch it here](https://youtu.be/SuOvxwoVJQo?si=Y9nSh4-JIeFyQ5w2!)
 
 [Enhancement Plan One](Enhancement-1/)  
