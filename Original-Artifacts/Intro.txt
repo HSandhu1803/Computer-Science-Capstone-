@@ -1,0 +1,14 @@
+Completing my coursework throughout the Computer Science program and developing my ePortfolio has been a transformative journey, 
+allowing me to showcase my strengths, refine my professional goals, and prepare for a successful career in the computer science field. 
+This process has not only deepened my technical expertise but also enhanced my ability to collaborate, communicate, and adapt to new 
+challenges in a rapidly evolving industry.
+
+Name of Artifact Used	
+Artifact name: Zombie text-based game using Python
+Origin: IT 140: Introduction to Scripting	
+
+Artifact name: Course planner program using C++
+Origin: CS 300: Data Structures and Algorithms course	
+
+Artifact name: Database analysis report based on the Companies database.
+Origin: DAD 220: Introduction to Structured Database Environments
