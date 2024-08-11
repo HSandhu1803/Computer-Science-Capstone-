@@ -1,4 +1,4 @@
-## Computer-Science-Capstone-
+## Computer Science Capstone- Final Project
 Harkamal Sandhu
 #### **Table of Contents**
 
