@@ -3,7 +3,7 @@ Harkamal Sandhu
 #### **Table of Contents**
 
 - [Professional Self-Assessment](https://github.com/HSandhu1803/Computer-Science-Capstone-/blob/main/README.md#professional-self-assessment)
-- Code Review
+- [Code Review](https://github.com/HSandhu1803/Computer-Science-Capstone-#code-review)
 - Enhancement One: Software Design and Engineering
 - Enhancement Two: Algorithms and data structure
 - Enhancement Three: Databases
