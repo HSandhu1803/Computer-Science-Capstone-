@@ -1,5 +1,6 @@
 ## Computer Science Capstone- Final Project
-Welcome to Harkamal Sandhu's ePortfolio!
+Welcome to Harkamal Sandhu's ePortfolio! ![image](https://github.com/user-attachments/assets/2ba061b9-e900-4545-8fdb-db28880b28fe)
+
 #### Table of Contents
 
 - [Professional Self-Assessment](https://github.com/HSandhu1803/Computer-Science-Capstone-/blob/main/README.md#professional-self-assessment)
