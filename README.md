@@ -35,4 +35,4 @@ The artifact was improved by:
 3.	Improved User Interface: The menu was expanded to include options for adding and removing courses. This improvement involved designing a user-friendly interface that guides the user through the process of managing the course data.
 
 
-[Enhancement Plan Three]{https://github.com/HSandhu1803/Computer-Science-Capstone-/tree/main/Enhancement-3)
+[Enhancement Plan Three](https://github.com/HSandhu1803/Computer-Science-Capstone-/tree/main/Enhancement-3)
