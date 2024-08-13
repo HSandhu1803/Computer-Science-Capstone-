@@ -4,9 +4,6 @@ Data Aggregation using MongoDB
 2.	After importing, verified the data load using the following MongoDB queries:
 •	db.research.find({"name" : "AdventNet"})
  
- 
-•	db.research.find({"founded_year" : 1996},{"name" : 1}).limit(10)
- 
 3.	Analysed the data using MongoDB queries:
 •	List only the first 20 names of companies founded after the year 2010, ordered alphabetically.
  
@@ -26,4 +23,3 @@ IV.	Stage 4: $group
 V.	Stage 5: $sort 
 •	The final $sort stage orders the resulting documents by the _id field (which corresponds to the state_code) in ascending order ({ _id: 1 }). This effectively sorts the output by state code.
 
-Note: It is mandatory to regularly update MongoDB and other software to patch known vulnerabilities to ensure security of data. Database is restricted to authorized users only; those have valid username and password.
