@@ -9,4 +9,4 @@ Welcome to Harkamal Sandhu's ePortfolio!
 - Enhancement Two: **Algorithms and data structure**
 - Enhancement Three: **Databases**
 
-######More information on my enhancements, including an initial code review, can be found at [Harkamal's GitHub Page](https://hsandhu1803.github.io/Computer-Science-Capstone-/)
+###### More information on my enhancements, including an initial code review, can be found at [Harkamal's GitHub Page](https://hsandhu1803.github.io/Computer-Science-Capstone-/)
